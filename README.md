@@ -1,4 +1,4 @@
-# ExampleBotttttttt
+# ExampleBottttttttaaaa
 
 This bot retweets the latest tweet using the "#mediaarts" hashtag. It attempts to retweet once per hour.
 
